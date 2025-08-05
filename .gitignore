@@ -1,0 +1,40 @@
+# Cache folder for Google Vision API results
+# cache_google_vision/
+debug_output_google_vision/
+out/
+scans/
+
+# Output images
+# *.png
+*.webp
+*.jpg
+*.jpeg
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# non-project-specific files
+fisa_evaluare_carte.md
+rezultate_dupa_scantailor.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.rar
+*.pdf
