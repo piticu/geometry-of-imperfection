@@ -1,11 +1,3 @@
-Absolut! Introducerea scriptului `analiza_cache.py` clarifică perfect fluxul de lucru și explică originea fișierului CSV. Voi actualiza fișierul `README.md` pentru a reflecta acest proces în doi pași și pentru a corecta câteva mici inconsecvențe.
-
-Noul `README.md` va fi mai clar, mai precis și va ghida utilizatorul prin întregul proces, de la scanări la setul de date final.
-
----
-
-### Fișierul `README.md` actualizat:
-
 # Geometry of Imperfection
 
 **A statistical and visual exploration of layout variations in manually printed books.**
